@@ -159,9 +159,9 @@ Otherwise, the instruction is ignored.
 several "internal" flags can be accessed
 by any object:
 
-$ALLIGNED
+$ALIGNED
      This flag is SET whenever the object
-is alligned with the player either
+is aligned with the player either
 horizontally or vertically.
 
 $CONTACT
